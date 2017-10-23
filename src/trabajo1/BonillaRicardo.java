@@ -12,5 +12,7 @@ package trabajo1;
 public class BonillaRicardo {
     public static void main(String[] args) {
         System.out.println("Soy Ricardo.");
+        
+        System.out.println("Edison Cornejo");
     }
 }
