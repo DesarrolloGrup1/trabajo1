@@ -9,7 +9,7 @@ package trabajo1;
  * @author Invitado_PC04
  */
 public class TixilemaCarlos {
-    public static void main(){
+    public static void main(String args[]){
         System.out.println("Carlos Tixilema desarrollo");
     }
     
