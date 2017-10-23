@@ -14,5 +14,6 @@ public class BonillaRicardo {
         System.out.println("Soy Ricardo.");
         
         System.out.println("Edison Cornejo");
+        System.out.println("Marilyn");
     }
 }
