@@ -11,5 +11,6 @@ package trabajo1;
 public class CornejoEdison {
     public static void main(){
         System.out.println("Edison Cornejo");
+        System.out.println("Carlos Tixilema");
     }
 }

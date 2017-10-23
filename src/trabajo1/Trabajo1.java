@@ -17,10 +17,6 @@ public class Trabajo1 {
         // TODO code application logic here
         System.out.println("Carlos Tixilema modifico esto");
         
-        
-        
-        
-        
         System.out.println("Edison aquí ");
     }
 }

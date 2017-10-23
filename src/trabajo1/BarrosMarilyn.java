@@ -9,5 +9,8 @@ package trabajo1;
  * @author Invitado_PC05
  */
 public class BarrosMarilyn {
-    
+    public static void main (String args[]){
+        System.out.println("Carlos Tixilema");
+        System.out.println("Edison Cornejo");
+    }
 }
