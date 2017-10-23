@@ -9,12 +9,13 @@ package trabajo1;
  * @author Invitado_PC11
  */
 public class MoretaLissette {
-    public static void main(){
+
+    public static void main() {
         System.out.println("Lissette Moreta desarrollo");
-        
-        
-        
-        
-                System.out.println("Hola Liss Att: Edison");
+
+
+
+        System.out.println("Carlos Tixilema");
+        System.out.println("Hola Liss Att: Edison");
     }
 }
